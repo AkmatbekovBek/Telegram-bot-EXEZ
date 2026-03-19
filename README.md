@@ -104,7 +104,7 @@ python main.py
 ---
 
 <p align="center">
-  <a href="https://t.me/твой_ник_в_тг">
+  <a href="https://t.me/AKMBV7">
     <img src="https://img.shields.io/badge/Contact_Author-Telegram-blue?style=flat-square&logo=telegram" />
   </a>
 </p>
