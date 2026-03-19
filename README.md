@@ -76,6 +76,41 @@ python main.py
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/License-GNU%20GPL%20v3-red.svg?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <b>⚖️ License & Copyright / Лицензия и Авторское право</b><br>
+  Copyright (c) 2024-2026 <b>Akmatbekov Bek</b>
+</p>
+
+<p align="center">
+  <i>English Version:</i><br>
+  This project is protected by the <b>GNU GPLv3</b> license.<br>
+  Using the code is permitted <b>only with attribution</b> to the original author.<br>
+  When modifying the code, a link to this repository is <b>mandatory</b>.
+</p>
+
+<p align="center">
+  <i>Русская версия:</i><br>
+  Данный проект защищен лицензией <b>GNU GPLv3</b>.<br>
+  Использование кода разрешено <b>только с указанием авторства</b>.<br>
+  При модификации кода ссылка на данный репозиторий <b>обязательна</b>.
+</p>
+
+---
+
+<p align="center">
+  <a href="https://t.me/твой_ник_в_тг">
+    <img src="https://img.shields.io/badge/Contact_Author-Telegram-blue?style=flat-square&logo=telegram" />
+  </a>
+</p>
+
+---
+
 ## 📂 Архитектура проекта
 ```bash
 ├── 📁 alembic/          # Миграции базы данных
