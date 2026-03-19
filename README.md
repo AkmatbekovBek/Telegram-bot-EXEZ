@@ -1,4 +1,4 @@
-# 🎰 RouletteBotTelegram — @gameexez_bot
+# 🎰 Telegram-bot-EXEZ
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,7 +48,7 @@
 Подготовка окружения:
 
 Bash
-git clone [https://github.com/AkmatbekovBek/RouletteBotTelegram.git](https://github.com/AkmatbekovBek/RouletteBotTelegram.git)
+git clone [https://github.com/AkmatbekovBek/RouletteBotTelegram.git](https://github.com/AkmatbekovBek/Telegram-bot-EXEZ.git)
 cd RouletteBotTelegram
 python -m venv venv
 source venv/bin/activate # Windows: venv\Scripts\activate
